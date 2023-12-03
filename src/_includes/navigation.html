@@ -1,0 +1,48 @@
+<section class="section">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="/">
+                    <h1 class="title is-size-1 is-family-primary">Åndsliv</h1>
+                </a>
+
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
+                    data-target="navbarBasicExample">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div id="navbarBasicExample" class="navbar-menu">
+
+            </div>
+
+            <div class="navbar-end">
+                <div class="navbar-start">
+                    {% for item in site.data.navigation %}
+                    <a href="{{ item.link }}" class="navbar-item" {% if page.url=="{{ item.link }}"
+                        %}style="color: red;" {% endif %}>
+                        {{ item.name }}
+                    </a>
+                    {% endfor %}
+
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a href="/om-aandsliv" class="navbar-link">
+                            Om Åndsliv
+                        </a>
+
+                        <div class="navbar-dropdown">
+                            {% for item in site.data.sub_navigation %}
+                            <a href="{{ item.link }}" class="navbar-item" {% if page.url=="{{ item.link }}"
+                                %}style="color: red;" {% endif %}>
+                                {{ item.name }}
+                            </a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</section>

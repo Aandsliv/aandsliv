@@ -1,0 +1,6 @@
+- name: Baggrund
+  link: /baggrund
+- name: Kontakt
+  link: /kontakt
+- name: Rapportér en fejl
+  link: /rapporter-en-fejl
