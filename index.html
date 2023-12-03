@@ -1,3 +1,7 @@
+---
+title: Åndsliv
+---
+
 <!DOCTYPE html>
 <html lang="da">
 
@@ -5,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="bulma.min.css">
-    <title>Åndsliv</title>
+    <title>{{ page.title }}</title>
 </head>
 
 <body>
@@ -14,7 +18,7 @@
             <div class="container">
                 <div class="navbar-brand">
                     <a class="navbar-item">
-                        <h1 class="title is-size-1 is-family-primary">Åndsliv</h1>
+                        <h1 class="title is-size-1 is-family-primary">{{ page.title }}</h1>
                     </a>
 
                     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
@@ -45,7 +49,7 @@
 
                         <div class="navbar-item has-dropdown is-hoverable">
                             <a class="navbar-link">
-                                Om Åndsliv
+                                Om {{ page.title }}
                             </a>
 
                             <div class="navbar-dropdown">
@@ -76,7 +80,7 @@
             <a class="link">Sektion 2</a>
         </p>
         <a class="level-item has-text-centered link">
-            <h1 class="title">Åndsliv</h1>
+            <h1 class="title">{{ page.title }}</h1>
         </a>
         <p class="level-item has-text-centered">
             <a class="link">Sektion 3</a>
@@ -188,7 +192,7 @@
     <footer class="footer">
         <div class="content has-text-centered">
             <p>
-                Åndsliv 2023
+                {{ page.title }} 2023
             </p>
         </div>
     </footer>
