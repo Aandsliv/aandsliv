@@ -28,21 +28,17 @@
                     {% endfor %}
 
                     <div class="navbar-item has-dropdown is-hoverable">
-                        <a class="navbar-link">
+                        <a href="/om-aandsliv" class="navbar-link">
                             Om Åndsliv
                         </a>
 
                         <div class="navbar-dropdown">
-                            <a class="navbar-item">
-                                Baggrund
+                            {% for item in site.data.sub_navigation %}
+                            <a href="{{ item.link }}" class="navbar-item" {% if page.url=="{{ item.link }}"
+                                %}style="color: red;" {% endif %}>
+                                {{ item.name }}
                             </a>
-                            <a class="navbar-item">
-                                Kontakt
-                            </a>
-                            <hr class="navbar-divider" />
-                            <a class="navbar-item">
-                                Rapportér en fejl
-                            </a>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>
