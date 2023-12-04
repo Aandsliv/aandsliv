@@ -1,0 +1,7 @@
+.editorconfig  text eol=lf working-tree-encoding=UTF-8
+.gitattributes text eol=lf working-tree-encoding=UTF-8
+.gitignore     text eol=lf working-tree-encoding=UTF-8
+*.md           text eol=lf working-tree-encoding=UTF-8
+*.yml          text eol=lf working-tree-encoding=UTF-8
+*.html         text eol=lf working-tree-encoding=UTF-8
+*.css          text eol=lf working-tree-encoding=UTF-8
