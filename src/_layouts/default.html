@@ -11,13 +11,7 @@
 <body>
     {% include navigation.html %}
     {% include content.html %}
-    <footer class="footer">
-        <div class="content has-text-centered">
-            <small>
-                &copy; {{ site.time | date: "%Y" }} Åndsliv
-            </small>
-        </div>
-    </footer>
+    {% include footer.html %}
 </body>
 
 </html>
