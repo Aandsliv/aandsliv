@@ -21,12 +21,11 @@
             <div class="navbar-end">
                 <div class="navbar-start">
                     {% for item in site.data.navigation %}
-                    <a href="{{ item.link }}" class="navbar-item" {% if page.url=="{{ item.link }}"
-                        %}style="color: red;" {% endif %}>
+                    <a href="{{ item.link }}" {% if page.url == item.real_url %} class="navbar-item is-tab is-active"
+                        {% else %} class="navbar-item is-tab" {% endif %}>
                         {{ item.name }}
                     </a>
                     {% endfor %}
-
                     <div class="navbar-item has-dropdown is-hoverable">
                         <a href="/om-aandsliv" class="navbar-link">
                             Om Åndsliv
@@ -34,8 +33,8 @@
 
                         <div class="navbar-dropdown">
                             {% for item in site.data.sub_navigation %}
-                            <a href="{{ item.link }}" class="navbar-item" {% if page.url=="{{ item.link }}"
-                                %}style="color: red;" {% endif %}>
+                            <a href="{{ item.link }}" {% if page.url == item.real_url %} class="navbar-item is-active"
+                                {% else %} class="navbar-item" {% endif %}>
                                 {{ item.name }}
                             </a>
                             {% endfor %}

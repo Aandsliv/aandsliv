@@ -1,10 +1,19 @@
 - name: Forside
   link: /
+  real_url: /
+
 - name: Tidsskrift
   link: /tidsskrift
+  real_url: /tidsskrift.html
+
 - name: Politik & Samfund
   link: /politik-og-samfund
+  real_url: /politik-og-samfund.html
+
 - name: Kultur
   link: /kultur
+  real_url: /kultur.html
+
 - name: Indsendelser
   link: /indsendelser
+  real_url: /indsendelser.html

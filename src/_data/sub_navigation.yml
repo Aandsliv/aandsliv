@@ -1,6 +1,11 @@
 - name: Baggrund
   link: /baggrund
+  real_url: /baggrund.html
+
 - name: Kontakt
   link: /kontakt
+  real_url: /kontakt.html
+
 - name: Rapportér en fejl
   link: /rapporter-en-fejl
+  real_url: /rapporter-en-fejl.html
