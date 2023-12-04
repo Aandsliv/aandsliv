@@ -1,3 +1,5 @@
+- name: Forside
+  link: /
 - name: Tidsskrift
   link: /tidsskrift
 - name: Politik & Samfund

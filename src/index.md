@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hjem
+title: Forside
 ---
 
 # Siden er under konstruktion
