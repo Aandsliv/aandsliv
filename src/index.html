@@ -1,0 +1,16 @@
+---
+layout: default
+title: Forside
+---
+
+<h1>Seneste artikler</h1>
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">
+            <h3>{{ post.title }}</h3>
+        </a>
+        <p>{{ post.excerpt }}</p>
+    </li>
+    {% endfor %}
+</ul>
