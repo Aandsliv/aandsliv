@@ -5,7 +5,9 @@ Website for aandsliv.dk and åndsliv.dk
 ## Add new post (for writers)
 
 Add a file in the directory `src/_posts/`.
-It must have the format `YYYY-MM-DD-<filename>.md`.
+It must have the format `YYYY-MM-DD-<TITLE>.md`.
+E.g., `2024-01-03-the-meaning-of-life.md`.
+
 Additionally, the file must begin with
 ```md
 ---
