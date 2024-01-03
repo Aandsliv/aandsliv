@@ -3,5 +3,16 @@ layout: default
 title: Forside
 ---
 
+<h1 class="title">Seneste artikler</h1>
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">
+            <h3>{{ post.title }}</h3>
+        </a>
+        <p>{{ post.abstract }}</p>
+    </li>
+    {% endfor %}
+</ul>
 <p>Siden er under konstruktion.</p>
 <a href="/mockup">Se mockup.</a>
