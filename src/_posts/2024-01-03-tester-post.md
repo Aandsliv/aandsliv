@@ -1,6 +1,7 @@
 ---
 author: Jane Doe
 abstract: dette er et abstract
+subsection: tidsskrift
 ---
 
 # Test Artikel
