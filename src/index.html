@@ -4,15 +4,33 @@ title: Forside
 ---
 
 <h1 class="title">Seneste artikler</h1>
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <a href="{{ post.url }}">
-            <h3>{{ post.title }}</h3>
-        </a>
-        <p>{{ post.abstract }}</p>
-    </li>
-    {% endfor %}
-</ul>
-<p>Siden er under konstruktion.</p>
-<a href="/mockup">Se mockup.</a>
+<div class="block">
+    <div class="tile is-ancestor">
+        <div class="tile is-vertical is-4">
+            <div class="tile">
+                {% for post in site.posts %}
+                <div class="tile is-parent is-vertical">
+                    <a href="{{ post.url }}" class="tile is-child card">
+                        <div class="card-content">
+                            <div class="block">
+                                <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                <p class="title">{{ post.title }}</p>
+                                <p class="subtitle">{{ post.author }}</p>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-item">
+                                <span>{{ post.abstract }}</span>
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+<section>
+    <p>Siden er under konstruktion.</p>
+    <a href="/mockup">Se mockup.</a>
+</section>
