@@ -13,9 +13,16 @@ Additionally, the file must begin with
 ---
 author: First name Last name
 abstract: Article abstract here...
+subsection: section name
 ---
 
 ```
+
+Note that `subsection` can have the following values:
+- `tidsskrift`
+- `politik-og-samfund`
+- `kultur`
+- `indsendelser`
 
 ## Build
 
