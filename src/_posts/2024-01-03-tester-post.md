@@ -1,6 +1,6 @@
 ---
-author: jane doe
-abstract: abc...
+author: Jane Doe
+abstract: dette er et abstract
 ---
 
 # Test Artikel
