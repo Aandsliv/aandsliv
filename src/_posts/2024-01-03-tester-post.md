@@ -1,6 +1,6 @@
 ---
-layout: post
 author: jane doe
+abstract: abc...
 ---
 
 # Test Artikel
