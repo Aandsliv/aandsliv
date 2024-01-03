@@ -1,7 +1,6 @@
 ---
 layout: post
 author: jane doe
-date: 3. januar 2024
 ---
 
 # Test Artikel
