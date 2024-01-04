@@ -13,7 +13,8 @@ title: Forside
                     <a href="{{ post.url | relative_url }}" class="tile is-child card">
                         <div class="card-content">
                             <div class="block">
-                                <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                <a href="{{ post.subsection | lowercase | url_encode | relative_url }}"
+                                    class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</a>
                                 <p class="title">{{ post.title }}</p>
                                 <p class="subtitle">{{ post.author }}</p>
                             </div>
