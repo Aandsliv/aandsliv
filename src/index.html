@@ -8,19 +8,20 @@ title: Forside
     <div class="tile is-ancestor">
         <div class="tile is-vertical is-4">
             <div class="tile">
-                {% for p in site.posts %}
+                {% for post in site.posts %}
                 <div class="tile is-parent is-vertical">
-                    <a href="{{ p.url | relative_url }}" class="tile is-child card">
+                    <a href="{{ post.url | relative_url }}" class="tile is-child card">
                         <div class="card-content">
                             <div class="block">
-                                <a class="tag card-header-icon is-pulled-right">{{ p.subsection | capitalize }}</a>
-                                <p class="title">{{ p.title }}</p>
-                                <p class="subtitle">{{ p.author }}</p>
+                                <span
+                                    class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</span>
+                                <p class="title">{{ post.title }}</p>
+                                <p class="subtitle">{{ post.author }}</p>
                             </div>
                         </div>
                         <div class="card-footer">
                             <p class="card-footer-item">
-                                <span>{{ p.abstract }}</span>
+                                <span>{{ post.abstract }}</span>
                             </p>
                         </div>
                     </a>
@@ -33,6 +34,6 @@ title: Forside
 <section>
     <div class="container">
         <p>Siden er under konstruktion.</p>
-        <a href="{{ "/mockup" | relative_url }}">Se mockup.</a>
+        <a href="{{ "/mockup" | relative_url }}">Se mockupost.</a>
     </div>
 </section>
