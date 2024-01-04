@@ -13,7 +13,11 @@ title: Forside
                     <a href="{{ post.url }}" class="tile is-child card">
                         <div class="card-content">
                             <div class="block">
-                                <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                <div class="control is-pulled-right">
+                                    <a href="/{{ post.subsection | slugify: "latin" }}">
+                                        <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                    </a>
+                                </div>
                                 <p class="title">{{ post.title }}</p>
                                 <p class="subtitle">{{ post.author }}</p>
                             </div>
