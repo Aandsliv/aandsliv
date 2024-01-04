@@ -10,10 +10,10 @@ title: Forside
             <div class="tile">
                 {% for post in site.posts %}
                 <div class="tile is-parent is-vertical">
-                    <a href="{{ post.url }}" class="tile is-child card">
+                    <a href="{{ post.url | relative_url }}" class="tile is-child card">
                         <div class="card-content">
                             <div class="block">
-                                <a href="/{{ post.subsection | slugify: "latin" }}">
+                                <a href="{{ post.subsection | relative_url }}">
                                     <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
                                 </a>
                                 <p class="title">{{ post.title }}</p>
@@ -35,6 +35,6 @@ title: Forside
 <section>
     <div class="container">
         <p>Siden er under konstruktion.</p>
-        <a href="/mockup">Se mockup.</a>
+        <a href="{{ "/mockup" | relative_url }}">Se mockup.</a>
     </div>
 </section>
