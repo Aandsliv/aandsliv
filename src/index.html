@@ -13,7 +13,9 @@ title: Forside
                     <a href="{{ post.url }}" class="tile is-child card">
                         <div class="card-content">
                             <div class="block">
-                                <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                <a href="/{{ post.subsection | slugify: "latin" }}">
+                                    <span class="tag card-header-icon">{{ post.subsection | capitalize }}</span>
+                                </a>
                                 <p class="title">{{ post.title }}</p>
                                 <p class="subtitle">{{ post.author }}</p>
                             </div>
@@ -31,6 +33,8 @@ title: Forside
     </div>
 </div>
 <section>
-    <p>Siden er under konstruktion.</p>
-    <a href="/mockup">Se mockup.</a>
+    <div class="container">
+        <p>Siden er under konstruktion.</p>
+        <a href="/mockup">Se mockup.</a>
+    </div>
 </section>
