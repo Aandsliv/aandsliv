@@ -7,6 +7,7 @@ Website source for [aandsliv.dk](https://aandsliv.dk/).
 Add a file in the directory `src/_posts/`.
 It must have the format `YYYY-MM-DD-<TITLE>.md`.
 E.g., `2024-01-03-the-meaning-of-life.md`.
+This will be both the link and the title shown on the page.
 
 Additionally, the file must begin with
 ```md
