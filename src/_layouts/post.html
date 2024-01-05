@@ -2,13 +2,15 @@
 layout: default
 ---
 <div class="content container is-max-desktop">
-    <h1>{{ page.title }}</h1>
-    <p class="is-italic has-text-weight-light">{{ page.date | date_to_string }} - {{ page.author }}</p>
     {% for post in site.posts %}
     {% if post.url == page.url %}
     <a href="{{ post.subsection | downcase | url_encode | relative_url }}"
         class="tag">{{ post.subsection | capitalize }}</a>
     {% endif %}
     {% endfor %}
+    <h1>{{ page.title }}</h1>
+    <p class="is-italic has-text-weight-light">
+        <small>{{ page.date | date_to_string }} - {{ page.author }}</small>
+    </p>
     {{ content }}
 </div>
