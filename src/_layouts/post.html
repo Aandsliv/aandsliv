@@ -6,7 +6,8 @@ layout: default
     <p class="is-italic has-text-weight-light">{{ page.date | date_to_string }} - {{ page.author }}</p>
     {% for post in site.posts %}
     {% if post.url == page.url %}
-    <a href="{{ post.subsection | downcase | url_encode | relative_url }}" class="tag"></a>
+    <a href="{{ post.subsection | downcase | url_encode | relative_url }}"
+        class="tag">{{ post.subsection | capitalize }}</a>
     {% endif %}
     {% endfor %}
     {{ content }}
