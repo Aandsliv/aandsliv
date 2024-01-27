@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: infopage
 title: Om Åndsliv
 ---
 
@@ -11,7 +11,7 @@ title: Om Åndsliv
 
 Åndsliv ønsker at rette fokus væk fra “hvordan” og tilbage på “hvorfor” til spørgsmål om samfundets og individets værdiskabelse, og hvordan der udpeges retninger på et grundlag af menneskelig værdi frem for økonomisk.
 
-Åndsliv består af tre hovedsektioner: Tidsskriftet “Åndsliv”, “Samfund/Politik” og “Kultur”. Alle tre sektioner agerer som én samlet entitet, og sætter fokus på forskellige aspekter af åndslivs værdigrundlag. 
+Åndsliv består af tre hovedsektioner: Tidsskriftet “Åndsliv”, “Samfund/Politik” og “Kultur”. Alle tre sektioner agerer som én samlet entitet, og sætter fokus på forskellige aspekter af åndslivs værdigrundlag.
 
 Tidsskriftet leverer dybdegående akademiske artikler, og er som sektion hovedansvarlig for at levere analysen og beskrivelsen af Åndslivs grundlæggende forståelsesramme og værdigrundlag.
 
