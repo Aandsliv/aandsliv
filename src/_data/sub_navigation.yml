@@ -2,9 +2,9 @@
   link: /baggrund
   real_url: /om-aandsliv.html
 
-- name: Kontakt
-  link: /kontakt
-  real_url: /kontakt.html
+- name: Personkartotek
+  link: /personkartotek
+  real_url: /personkartotek.html
 
 - name: Rapportér en fejl
   link: /rapporter-en-fejl
