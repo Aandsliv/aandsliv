@@ -1,6 +1,4 @@
 ---
 layout: infopage
-title: Tidsskrift
+title: Indsendelser
 ---
-
-Indsendelser
