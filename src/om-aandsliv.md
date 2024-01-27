@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Om Åndsliv
 ---
 # Om Åndsliv
