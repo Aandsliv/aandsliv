@@ -2,7 +2,6 @@
 layout: post
 title: Om Åndsliv
 ---
-# Om Åndsliv
 
 Åndsliv har til formål at bidrage kritisk til den aktuelle samfundsdebat, ved at tilbyde alternative forståelsesrammer til den dominerende diskurs’ bevægelse væk fra de menneskelige værdier.
 
