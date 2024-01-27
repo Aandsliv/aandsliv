@@ -1,11 +1,7 @@
----
-layout: default
-title: Tidsskrift
----
 <h1 class="title">Seneste artikler</h1>
-<div class="block">
+<div class="block is-flex is-flex-wrap-wrap">
     <div class="tile is-ancestor">
-        <div class="tile is-vertical is-8">
+        <div class="tile is-vertical is-4">
             <div class="tile">
                 {% for post in site.posts %}
                 {% if post.subsection == "tidsskrift" %}
@@ -16,7 +12,7 @@ title: Tidsskrift
                                 <span
                                     class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</span>
                                 <p class="title">{{ post.title }}</p>
-                                <p class="subtitle is-italic has-text-weight-light">
+                                <p class="subtitle has-text-weight-light">
                                     {{ post.date | date_to_string }} - {{ post.author }}
                                 </p>
                             </div>
