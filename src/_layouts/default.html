@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/bulma.min.css" | realtive_url }}">
+    <link rel="stylesheet" href="{{ "/assets/bulma.min.css" | relative_url }}">
     <title>{{ page.title }} | Åndsliv </title>
 </head>
 
@@ -13,5 +13,20 @@
     {% include content.html %}
     {% include footer.html %}
 </body>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const navbarBurger = document.querySelector(".navbar-burger");
+        if (navbarBurger !== null) {
+            navbarBurger.addEventListener("click", () => {
+                const targetValue = navbarBurger.dataset.target;
+                const targetElement = document.getElementById(targetValue);
+                if (targetElement !== null) {
+                    navbarBurger.classList.toggle("is-active");
+                    targetElement.classList.toggle("is-active");
+                }
+            });
+        }
+    });
+</script>
 
 </html>
