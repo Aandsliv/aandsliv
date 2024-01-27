@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="content container is-max-desktop">
+    {% for post in site.posts %}
+    {% if post.url == page.url %}
+    <a href="{{ post.subsection | downcase | url_encode | relative_url }}"
+        class="tag">{{ post.subsection | capitalize }}</a>
+    {% endif %}
+    {% endfor %}
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+</div>
