@@ -1,0 +1,36 @@
+---
+layout: default
+title: Politik & Samfund
+---
+<h1 class="title">Seneste artikler</h1>
+<div class="block">
+    <div class="tile is-ancestor">
+        <div class="tile is-vertical is-8">
+            <div class="tile">
+                {% for post in site.posts %}
+                {% if post.subsection == "politik-og-samfund" %}
+                <div class="tile is-parent is-vertical">
+                    <a href="{{ post.url | relative_url }}" class="tile is-child card">
+                        <div class="card-content">
+                            <div class="block">
+                                <span
+                                    class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</span>
+                                <p class="title">{{ post.title }}</p>
+                                <p class="subtitle is-italic has-text-weight-light">
+                                    {{ post.date | date_to_string }} - {{ post.author }}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-item">
+                                <span>{{ post.abstract }}</span>
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
