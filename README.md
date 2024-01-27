@@ -23,7 +23,6 @@ Note that `subsection` can have the following values:
 - `tidsskrift`
 - `politik-og-samfund`
 - `kultur`
-- `indsendelser`
 
 ## Build
 
