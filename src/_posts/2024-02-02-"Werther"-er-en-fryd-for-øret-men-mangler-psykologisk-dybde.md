@@ -6,7 +6,7 @@ ej den nødvendige ammunition til at skyde tilhøreren mærkbart i følelsesregi
 subsection: kultur
 ---
 
-#5/10 – “Werther” er en fryd for øret, men mangler psykologisk dybde
+# 5/10 – “Werther” er en fryd for øret, men mangler psykologisk dybde
 
 
 
@@ -45,12 +45,12 @@ spillede øregangene fulde af nydelse, i tilpas grad til at man forlader salen m
 verden, om de store emotioner og som vil føle sig revet rundt af håbløshedens og uretfærdigheden hjerteskærende realitet, vil en læsning af Goethes original med garanti 
 i højere grad opnå dette.
 
-#5/10
+# 5/10
 
 
 
 
-##Litteraturliste:
+## Litteraturliste:
 
 Edmunds, S. (2022, March 20). The Adversity Cycle: The Origins of Story. Https://Annerallen.com. Retrieved February 3, 2024, from https://annerallen.com/2022/03/adversity-cycle/
 
