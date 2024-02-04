@@ -15,3 +15,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
+      - name: debug
+        run: tree .
