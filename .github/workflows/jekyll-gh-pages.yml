@@ -32,6 +32,8 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
+      - name: Switch to site dir
+        run: cd _site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
