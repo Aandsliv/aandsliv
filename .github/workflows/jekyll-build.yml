@@ -13,13 +13,8 @@ jobs:
       steps:
         - name: Checkout
           uses: actions/checkout@v4
-        - name: Setup Ruby Pkgs
-          uses: ruby/setup-ruby-pkgs@v1.33.1
+        - name: Build with Jekyll
+          uses: actions/jekyll-build-pages@v1
           with:
-            ruby-version: '3.3'
-            bundler: '2.5'
-        - name: Build
-          run: |
-            cd src/
-            bundle install
-            bundle exec jekyll build
+            source: ./src/
+            destination: ./_site
