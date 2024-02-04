@@ -13,3 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+safe: true
+source: "src/"
+timezone: "Europe/Berlin"
