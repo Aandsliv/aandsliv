@@ -1,0 +1,20 @@
+name: Build with Jekyll
+
+on: [pull_request]
+
+# Cancel previous runs if the PR is updated
+concurrency:
+  cancel-in-progress: true
+  group: build-${{ github.ref }}
+
+jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+        - name: Build with Jekyll
+          uses: actions/jekyll-build-pages@v1
+          with:
+            source: ./src/
+            destination: ./_site
