@@ -16,6 +16,8 @@ jobs:
         - name: Setup Ruby Pkgs
           uses: ruby/setup-ruby-pkgs@v1.33.1
           with:
+            ruby-version: '3.3'
+            bundler: true
             rubygems: jekyll
         - name: Build
           run: |
