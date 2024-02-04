@@ -13,3 +13,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+safe: true
+source: "src/"
+timezone: "Europe/Berlin"
+strict_front_matter: true
+baseurl: "https://aandsliv.dk"
+url: "https://aandsliv.dk"

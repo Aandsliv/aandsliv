@@ -9,9 +9,9 @@ subsection: kultur
 
 
 
-Når man som denne anmelder ikke er trænet i opera, kunne lejligheden til at komme i gang næsten ikke falde mere belejligt end med “Werther” i Den Jyske Opera. Det indtryk får man i al fald når man læser instruktør Philipp Kochheims programnoter: “Kærlighed, had, jalousi, desperation og håb – alt sammen så rent og fokuseret som ingen anden opera i historien… Werther er ikke bare endnu en opera, den er essensen af alle operaer!” Det er store ord, men når forestillingen er baseret på Goethes legendariske “Den unge Werthers lidelser” er det svært ikke at blive spændt på den historiefortælling, der nu skal foregå. 
+Når man som denne anmelder ikke er trænet i opera, kunne lejligheden til at komme i gang næsten ikke falde mere belejligt end med “Werther” i Den Jyske Opera. Det indtryk får man i al fald når man læser instruktør Philipp Kochheims programnoter: “Kærlighed, had, jalousi, desperation og håb – alt sammen så rent og fokuseret som ingen anden opera i historien… Werther er ikke bare endnu en opera, den er essensen af alle operaer!” Det er store ord, men når forestillingen er baseret på Goethes legendariske “Den unge Werthers lidelser” er det svært ikke at blive spændt på den historiefortælling, der nu skal foregå.
 
-Goethes værk fra 1774 er så stærkt et billede af håbløs kærlighed, med en ung Werther der higer efter den smukke Charlotte, velvidende at hun er trolovet til Albert. I Goethes udgave mærker vi Werthers lidelser helt ind i marven, en kærlighed der ikke kan blive, til trods for deres nære relation og dybe samtaler. Vigtigst af alt forstærkes sorgen af den ubarmhjertige sandhed som selv Werther må sande, Albert er en mand man kun kan have hengivenhed til overs for. 
+Goethes værk fra 1774 er så stærkt et billede af håbløs kærlighed, med en ung Werther der higer efter den smukke Charlotte, velvidende at hun er trolovet til Albert. I Goethes udgave mærker vi Werthers lidelser helt ind i marven, en kærlighed der ikke kan blive, til trods for deres nære relation og dybe samtaler. Vigtigst af alt forstærkes sorgen af den ubarmhjertige sandhed som selv Werther må sande, Albert er en mand man kun kan have hengivenhed til overs for.
 
 En traditionel historie kræver modgang for at vi for alvor lever os ind i den, og den modstand vil typisk være en fjende eller opgave der skal besejres (Edmunds, 2022). Det føles derfor ekstra hjerteskærende når vi ser Werther være fortabt til et punkt hvor han end ikke kan ønske at overvinde Albert, da han intet ondt kan sige eller føle i hans retning. Det er her Den unge Werthers lidelser for alvor trækker i tårekanalerne og bringer læseren ud af fatning over livets og kærlighedens uretfærdigheder. Dette element er dog komplet fjernet fra “Werther” i Den Jyske Opera.
 
@@ -32,6 +32,6 @@ Edmunds, S. (2022, March 20). The Adversity Cycle: The Origins of Story. Https:/
 
 Goethe, Johann Wolfgang (1774) Den unge Werthers lidelser (Jæger, F. oversætter, 1972). Dansklærerforeningen
 
-O’neill, S. & Edelman, J. & Sloboda, J. (2016). Opera and emotion: The cultural value of attendance for the highly engaged. Participations: International Journal of Energy Research. Vol 13. pp 24-50. 
+O’neill, S. & Edelman, J. & Sloboda, J. (2016). Opera and emotion: The cultural value of attendance for the highly engaged. Participations: International Journal of Energy Research. Vol 13. pp 24-50.
 
 Savater, F. (1994). Amador: in which a father addresses his son on questions of ethics... New York: H. Holt.
