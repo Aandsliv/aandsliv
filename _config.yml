@@ -18,3 +18,4 @@ safe: true
 source: "src/"
 timezone: "Europe/Berlin"
 strict_front_matter: true
+baseurl: "https://aandsliv.dk/
