@@ -27,6 +27,10 @@ url: "https://aandsliv.dk"
 # Safety
 safe: true
 strict_front_matter: true
+liquid:
+  error_mode: strict
+  strict_filters: true
+  strict_variables: true
 
 # Other
 timezone: "Europe/Berlin"
