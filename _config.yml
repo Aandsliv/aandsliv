@@ -23,8 +23,8 @@ data_dir: ./src/_data
 includes_dir: ./src/_includes
 baseurl: "https://aandsliv.dk"
 url: "https://aandsliv.dk"
-exclude: ./
-include: ./src
+exclude: [ ./ ]
+include: [ ./src ]
 
 # Safety
 safe: true
