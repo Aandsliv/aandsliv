@@ -1,4 +1,4 @@
-name: Build with Jekyll
+name: Check with Jekyll
 
 on: [pull_request]
 
@@ -8,7 +8,7 @@ concurrency:
   group: build-${{ github.ref }}
 
 jobs:
-    build:
+    check:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -18,7 +18,7 @@ jobs:
           with:
             ruby-version: '3.3'
             bundler: '2.5'
-        - name: Build
+        - name: Check
           run: |
             cd src/
             bundle install
