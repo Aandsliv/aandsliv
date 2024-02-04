@@ -15,16 +15,16 @@ plugins:
   - jekyll-seo-tag
 
 # Where to find things
-source: ./src
-destination: ./_site
-collections_dir: ./src/
-layouts_dir: ./src/_layouts
-data_dir: ./src/_data
-includes_dir: ./src/_includes
+# source: ./src
+# destination: ./_site
+# collections_dir: ./src/
+# layouts_dir: ./src/_layouts
+# data_dir: ./src/_data
+# includes_dir: ./src/_includes
 baseurl: "https://aandsliv.dk"
 url: "https://aandsliv.dk"
-exclude: [ ./ ]
-include: [ ./src ]
+# exclude: [ "_config.yml", ".editorconfig", ".gitattrbutes", ".gitignore", "Gemfile", "Gemfile.lock", "README.md", ".github/" ]
+# include: [ "./src" ]
 
 # Safety
 safe: true
