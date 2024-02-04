@@ -6,31 +6,28 @@ title: Politik & Samfund
 <div class="block is-flex is-flex-wrap-wrap">
     <div class="tile is-ancestor">
         <div class="tile is-vertical is-4">
-            <div class="tile">
-                {% for post in site.posts %}
-                {% if post.subsection == "politik-og-samfund" %}
-                <div class="tile is-parent is-vertical">
-                    <a href="{{ post.url | relative_url }}" class="tile is-child card">
-                        <div class="card-content">
-                            <div class="block">
-                                <span
-                                    class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</span>
-                                <p class="title is-spaced is-4">{{ post.title }}</p>
-                                <p class="subtitle is-6">
-                                    {{ post.date | date_to_string }} - {{ post.author }}
-                                </p>
-                            </div>
-                        </div>
-                        <div class="card-footer">
-                            <p class="card-footer-item">
-                                <span>{{ post.abstract }}</span>
+            {% for post in site.posts %}
+            {% if post.subsection == "politik-og-samfund" %}
+            <div class="tile is-parent is-vertical">
+                <a href="{{ post.url | relative_url }}" class="tile is-child card">
+                    <div class="card-content">
+                        <div class="block">
+                            <span class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</span>
+                            <p class="title is-spaced is-4">{{ post.title }}</p>
+                            <p class="subtitle is-6">
+                                {{ post.date | date_to_string }} - {{ post.author }}
                             </p>
                         </div>
-                    </a>
-                </div>
-                {% endif %}
-                {% endfor %}
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-item">
+                            <span>{{ post.abstract }}</span>
+                        </p>
+                    </div>
+                </a>
             </div>
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
 </div>
