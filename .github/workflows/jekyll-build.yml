@@ -17,7 +17,7 @@ jobs:
           uses: ruby/setup-ruby-pkgs@v1.33.1
           with:
             ruby-version: '3.3'
-            bundler: true
+            bundler: '2.5'
         - name: Build
           run: |
             cd src/
