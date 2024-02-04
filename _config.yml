@@ -14,9 +14,19 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-safe: true
-source: "src/"
-timezone: "Europe/Berlin"
-strict_front_matter: true
+# Where to find things
+source: ./src
+destination: ./_site
+collections_dir: ./src/
+layouts_dir: ./src/_layouts
+data_dir: ./src/_data
+includes_dir: ./src/_includes
 baseurl: "https://aandsliv.dk"
 url: "https://aandsliv.dk"
+
+# Safety
+safe: true
+strict_front_matter: true
+
+# Other
+timezone: "Europe/Berlin"
