@@ -8,18 +8,26 @@ concurrency:
   group: build-${{ github.ref }}
 
 jobs:
-    check:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-        - name: Setup Ruby Pkgs
-          uses: ruby/setup-ruby-pkgs@v1.33.1
-          with:
-            ruby-version: '3.3'
-            bundler: '2.5'
-        - name: Check
-          run: |
-            cd src/
-            bundle install
-            bundle exec jekyll doctor
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby Pkgs
+        uses: ruby/setup-ruby-pkgs@v1.33.1
+        with:
+          ruby-version: '3.3'
+          bundler: '2.5'
+      - name: Check
+        run: |
+          bundle install
+          bundle exec jekyll doctor
+  pages_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          destination: ./_site
