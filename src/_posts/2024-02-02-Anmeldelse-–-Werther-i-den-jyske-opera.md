@@ -1,6 +1,6 @@
 ---
 author: Simon Lehm Frandsen
-abstract: 5/10 – “Werther” i Den Jyske Opera er med et yderst velspillende Aarhus Symfoniorkester og et lille men kompetent cast af fire sangere, en fryd for denne anmelders utrænede operaøre i udgaven fra Aarhus Musikhus fredag d. 2. februar 2024. Forestillingens historie mangler dog den glød der gør Goethes oprindelige værk til tidløst, og har ej den nødvendige ammunition til at skyde tilhøreren mærkbart i følelsesregistret.
+abstract: 5/10 – “Werther” i Den Jyske Opera er med et yderst velspillende Aarhus Symfoniorkester og et lille men kompetent cast af fire sangere, en fryd for denne anmelders utrænede operaøre i udgaven fra Aarhus Musikhus fredag d. 2. februar 2024. Forestillingens historie mangler dog den glød der gør Goethes oprindelige værk tidløst, og har ej den nødvendige ammunition til at skyde tilhøreren mærkbart i følelsesregistret.
 subsection: kultur
 ---
 
