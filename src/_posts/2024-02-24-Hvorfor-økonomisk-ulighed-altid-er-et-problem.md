@@ -4,7 +4,7 @@ abstract: Den økonomiske ulighed i Danmark er rekordhøj, og udviklingen buldre
 subsection: politik-og-samfund
 ---
 
-# Hvorfor økonomisk ulighed altid er et problem
+## Analyse af højredrejningen i dansk økonomisk politik
 
 
 Uligheden i det danske samfund er på det højeste niveau i 35 år, og udviklingen ser ud til at fortsætte (Olsen & Rud, 2023). Dette kan ses som en højredrejning af den økonomiske politik, men vi påmindes konstant om at uligheden ikke er vigtig, så længe der eksisterer en generel økonomisk fremgang i landet. Liberal Alliances formand Alex Vanopslagh (2022) har ligeledes udtalt, at i et af verdens mest lige lande er forøgelsen af den økonomiske ulighed “fløjtende ligegyldig”. Det gør han i forbindelse med sin ambitiøse plan for Danmarks fremtid, baseret på en økonomisk model der vil øge uligheden, men samtidig sigte mod at øge den generelle velstand. Vanopslagh udtaler i samme ombæring at selv de venstreorienterede er ligeglade med den øgede ulighed, da de jo tillader at den stiger. Og hvor det nemt kan argumenteres at den moderne socialistiske ideologi accepterer uligheden, da den bygger på en justering af den liberale kapitalisme frem for et ønske om opbrud med samme (Zizek, 2000), er sådanne udtalelser dybt bekymrende i en tid hvor Liberal Alliance ikke er et nicheparti der forsøger at tillokke et mindre vælgersegment, men derimod er et bredt parti med stor folkelig opbakning og ambitioner om magtfuld indflydelse på det danske samfund. 
