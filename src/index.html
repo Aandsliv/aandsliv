@@ -12,9 +12,7 @@ title: Forside
 
                     <div class="block">
                         <a class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</a>
-                        <a href="{{ post.url | relative_url }}">
-                            <p class="title is-spaced is-4">{{ post.title }}</p>
-                        </a>
+                        <p class="title is-spaced is-4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
                         <p class="subtitle is-6">
                             {{ post.date | date_to_string }} - {{ post.author }}
                         </p>
