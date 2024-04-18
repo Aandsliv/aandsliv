@@ -8,8 +8,8 @@ title: Forside
         <div class="grid">
             {% for post in site.posts %}
             <div class="cell">
-                <div class="card">
-                    <a href="{{ post.url | relative_url }}">
+                <a href="{{ post.url | relative_url }}">
+                    <div class="card">
                         <div class="card-content">
                             <div class="block">
                                 <span data-link="{{ post.subsection }}" class="tag card-header-icon is-pulled-right">
@@ -24,8 +24,8 @@ title: Forside
                                 </div>
                             </div>
                         </div>
-                    </a>
-                </div>
+                    </div>
+                </a>
             </div>
             {% endfor %}
         </div>
