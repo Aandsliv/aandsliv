@@ -3,29 +3,27 @@ layout: default
 title: Forside
 ---
 <h1 class="title">Seneste artikler</h1>
-<div class="block is-flex is-flex-wrap-wrap">
-    <div class="fixed-grid">
-        <div class="grid">
-            {% for post in site.posts %}
-            <div class="cell">
-                <div class="card">
-                    <div class="card-content">
+<div class="block">
+    <div class="grid is-col-min-6">
+        {% for post in site.posts %}
+        <div class="cell">
+            <div class="card">
+                <div class="card-content">
 
-                        <div class="block">
-                            <a class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</a>
-                            <p class="title is-spaced is-4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                            </p>
-                            <p class="subtitle is-6">
-                                {{ post.date | date_to_string }} - {{ post.author }}
-                            </p>
-                            <div class="content">
-                                <p>{{ post.abstract }}</p>
-                            </div>
+                    <div class="block">
+                        <a class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</a>
+                        <p class="title is-spaced is-4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                        </p>
+                        <p class="subtitle is-6">
+                            {{ post.date | date_to_string }} - {{ post.author }}
+                        </p>
+                        <div class="content">
+                            <p>{{ post.abstract }}</p>
                         </div>
                     </div>
                 </div>
             </div>
-            {% endfor %}
         </div>
+        {% endfor %}
     </div>
 </div>
