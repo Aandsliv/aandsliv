@@ -31,6 +31,14 @@
                 }
             });
         }
+
+        const tags = document.querySelectorAll("[data-link]");
+        tags.forEach(tag => {
+            tag.addEventListener("click", () => {
+                const link = tag.dataset.link;
+                window.location.href = `/${link}`;
+            });
+        });
     });
 </script>
 
