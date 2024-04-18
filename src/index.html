@@ -8,14 +8,13 @@ title: Forside
         <div class="grid">
             {% for post in site.posts %}
             <div class="cell">
-                <a href="{{ post.url | relative_url }}">
-                    <div class="card">
+                <div class="card">
+                    <a href="{{ post.url | relative_url }}">
                         <div class="card-content">
                             <div class="block">
                                 <a href="{{ post.subsection | relative_url }}"
                                     class="tag card-header-icon is-pulled-right">{{ post.subsection | capitalize }}</a>
-                                <p class="title is-spaced is-4">{{ post.title }}
-                                </p>
+                                <p class="title is-spaced is-4">{{ post.title }}</p>
                                 <p class="subtitle is-6">
                                     {{ post.date | date_to_string }} - {{ post.author }}
                                 </p>
@@ -24,8 +23,8 @@ title: Forside
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
             </div>
             {% endfor %}
         </div>
