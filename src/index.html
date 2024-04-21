@@ -14,7 +14,11 @@ title: Forside
                             <div class="block">
                                 <span data-link="{{ post.subsection }}" class="tag is-pulled-right"
                                     style="z-index: 1000;">
+                                    {% if post.subsection == "politik-og-samfund" %}
+                                    Politik & Samfund
+                                    {% else %}
                                     {{ post.subsection | capitalize }}
+                                    {% endif %}
                                 </span>
                                 <p class="title is-spaced is-4">{{ post.title }}</p>
                                 <p class="subtitle is-6">
