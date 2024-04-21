@@ -31,6 +31,16 @@
                 }
             });
         }
+
+        const tags = document.querySelectorAll("[data-link]");
+        tags.forEach(tag => {
+            const a = document.createElement("a");
+            a.setAttribute("href", `/${tag.dataset.link}`);
+            a.textContent = tag.textContent;
+            a.classList = tag.classList;
+            a.style = tag.style;
+            tag.replaceWith(a);
+        });
     });
 </script>
 
