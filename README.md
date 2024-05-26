@@ -1,6 +1,6 @@
-# Aandsliv Website
+# Åndsliv Website
 
-Website source for [aandsliv.dk](https://aandsliv.dk/).
+Website source for [Åndsliv.dk](https://xn--ndsliv-hua.dk/).
 
 ## Add new post (for writers)
 
