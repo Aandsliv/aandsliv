@@ -1,6 +1,6 @@
 ---
 author: Simon Lehm Frandsen
-abstract: Teaterskolen Move’n Act opstiller som afgangsprøve Jonas Khemiris “Cirka lig med” i en udgave der imponerer i sin simplistiske stil, men samtidig bærer præg af at være et afslutningsprojekt. Dette gør forestillingen svær at vurdere, men for sin charme, relevante pointer og veloplagte cast fortjener den en karakter i den højere ende.
+abstract: 7,5/10 – Teaterskolen Move’n Act opstiller som afgangsprøve Jonas Khemiris “Cirka lig med” i en udgave der imponerer i sin simplistiske stil, men samtidig bærer præg af at være et afslutningsprojekt. Dette gør forestillingen svær at vurdere, men for sin charme, relevante pointer og veloplagte cast fortjener den en karakter i den højere ende.
 subsection: kultur
 ---
 
