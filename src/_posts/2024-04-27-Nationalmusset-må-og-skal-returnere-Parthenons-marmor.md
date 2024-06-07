@@ -1,7 +1,7 @@
 ---
 author: Simon Lehm Frandsen
 abstract: I anledningen af 200-året for Lord Byrons død, genoptages nu debatten om Parthenontemplets besudlede historie, og den uskønne rolle Danmark endnu den dag i dag spiller i denne græske tragedie. Med udgangspunkt i Christopher Hitcens’ “The Parthenon Marbles - The case for reunification” (2008), argumenteres der for hvorfor Danmark bør gå forrest i kampen om at restaurere den vestlige verdens vigtigste kulturelle symbol.
-subsection: politik & samfund
+subsection: politik-og-samfund
 ---
 
 ## Hvorfor Parthenon bør genforenes
