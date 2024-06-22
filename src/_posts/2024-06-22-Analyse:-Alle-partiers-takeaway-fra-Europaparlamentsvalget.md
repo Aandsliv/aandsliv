@@ -1,7 +1,7 @@
 ---
 author: Simon Lehm Frandsen
 abstract: Et europaparlamentsvalg er som bekendt ikke det samme som et folketingsvalg, blandt andet fordi der ofte er tale om mindre kendte (læs populære) kandidater, samtidig med at valgdeltagelsen altid er markant lavere. Hertil kommer at man ved valget i år fortsatte tendensen med at sprede mandaterne ud på flere partier, da de danske MEP’er gik fra at repræsentere syv til nu ti partier. Dette betyder at man til et EP-valg både skal få de stemmeberettigede til at pege på sit parti i meningsmålingerne, men samtidig også mobilisere dem ned til stemmeurnerne for at valget kan blive en succes. Og det lykkedes langt fra for alle.
-subsection: Politik & Samfund
+subsection: politik-og-samfund
 ---
 
 # Analyse: EP-valgets udfald for samtlige partier
