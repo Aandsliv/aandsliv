@@ -83,8 +83,8 @@ Savater, F. (1992) Den Politiske Brødrister. København, Forlaget Forum A-S.
 
 Savater, F. (2003) Mod til at vælge. København, People’s Press.
 
-Skærbæk, M & Larsen, J. B., (2024) Socialdemokratiet i hårdt angreb på SF:»Det er topmålet af uansvarlighed«. (2024, May 12). Politiken. https://politiken.dk/danmark/politik/art9893374/Socialdemokratiet-i-h%C3%A5rdt-angreb-p%C3%A5-SF-%C2%BBDet-er-topm%C3%A5let-af-uansvarlighed%C2%AB
-
+Skærbæk, M & Larsen, J. B., (2024) [Socialdemokratiet i hårdt angreb på SF:»Det er topmålet af uansvarlighed«](https://politiken.dk/danmark/politik/art9893374/Socialdemokratiet-i-h%C3%A5rdt-angreb-p%C3%A5-SF-%C2%BBDet-er-topm%C3%A5let-af-uansvarlighed%C2%AB)
+. (2024, May 12). Politiken.
 Svendsen, L. F. H., 2008. Frygt. Aarhus, Forlaget Klim.
 
 Tofte, L. R. & Nissen, S. W. (2024). Midt under valgaftenen talte Søren Gade lige ud af posen: Troels Lund skal fokusere på formandsposten i Venstre. DR. Hentet 22. juni fra https://www.dr.dk/nyheder/politik/midt-under-valgaftenen-talte-soeren-gade-lige-ud-af-posen-troels-lund-skal-fokusere
