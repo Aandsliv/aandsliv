@@ -21,9 +21,9 @@ Artikler til Åndslivs akademiske tidsskrift skal indsendes i den angivne skabel
 3. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
 4. Referencer samt referanceliste opstilles efter APA-standard.
 
-5. angiv i mailen forfatteroplysningerne: Navn, artikel,  titel, institution (hvis haves),  et abstract (max 250 ord) og  3-7 nøgleord. 
+5. Angiv i mailen forfatteroplysningerne: Navn, artikel,  titel, institution (hvis haves),  et abstract (max 250 ord) og  3-7 nøgleord. 
 
-For at indsende sendes mail med artiklen vedhæftet og ovenstående krav til: tidsskrift@åndsliv.dk
+For at indsende sendes mail med artiklen vedhæftet og ovenstående krav til: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
 
 **Replik**
 
@@ -37,4 +37,4 @@ Replikker  til Åndslivs akademiske tidsskrift skal indsendes i den angivne skab
 4. Referencer og referenceliste opstilles efter APA-standard.
 5. Angiv i mailen forfatteroplysningerne: Navn, replik, hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af replikken.  
 
-For at indsende sendes mail med replikken vedhæftet og ovenstående krav til mailen til: tidsskrift@åndsliv.dk
+For at indsende sendes mail med replikken vedhæftet og ovenstående krav til mailen til: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
