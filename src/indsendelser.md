@@ -1,9 +1,7 @@
 ---
 layout: infopage
-title: Indsendelser
+title: Publicering og Indsendelses til Åndsliv
 ---
-
-# Publicering og Indsendelses til Åndsliv
 
 Indsendselser bliver reviewet af  redaktionen, og på grundlag heraf træffer redaktionen i samarbejde med forfatteren beslutning om den videre procedure frem til evt. offentliggørelse. Alle forfattere får en tilbagemelding. Review og redaktion foretages på grundlag af Åndslivs redaktionelle linje og med hensyn til artiklens generelle konsistens, relevans, originalitet, klarhed og refleksivitet.
 Korrektur og evt. sproglig revision påhviler forfatteren.
