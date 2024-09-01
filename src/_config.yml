@@ -27,3 +27,4 @@ timezone: "Europe/Berlin"
 # SEO
 description: "Åndsliv har til formål at bidrage kritisk til den aktuelle samfundsdebat, ved at tilbyde alternative forståelsesrammer til den dominerende diskurs' bevægelse væk fra de menneskelige værdier."
 url: "https://xn--ndsliv-hua.dk/"
+locale: "da"
