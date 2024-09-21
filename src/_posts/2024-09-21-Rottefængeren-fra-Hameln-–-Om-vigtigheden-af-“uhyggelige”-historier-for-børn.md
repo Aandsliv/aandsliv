@@ -6,7 +6,7 @@ subsection: politik-og-samfund
 
 "Uhyggelige" historier er en del af de flestes barndom, men hvorfor er det væsentligt at forstå og forholde sig til historier der synes uegnede for børn, allerede fra en tidlig alder? Med afsæt i "Rottefængeren fra Hameln" gives en analyse af vigtigheden af disse historier for børn, ud fra både et individuelt moralsk perspektiv, og et samfundsanalytisk perspektiv.
 
-### Om børns moralske udvikling gennem historier
+## Om børns moralske udvikling gennem historier
 
 Da en god ven for nylig kom forbi for at hilse på undertegnedes nyfødte datter, overrakte han i samme ombæring en Pixi-bog med den klassiske fortælling om Rottefængeren fra Hameln (Der Rattenfänger von Hameln) (Nielsen, 1976). Han overrakte bogen med ordene: “ Denne husker jeg fra min egen barndom, men jeg er i tvivl om hvor moralsk den egentlig er for børn, så måske hun skal være meget ældre før du læser den højt”. Disse ord gjorde stort indtryk på mig, da der findes mange historier som “Ulven kommer” eller “Manden, drengen og Æslet” og mange lignende, der alle fortælles til børn for at demonstrere vigtige moralske og etiske pointer med et tydeligt illustreret eksempel. Dette gør det forståeligt og overskueligt for selv et barns hjerne, men en fabel er muligvis en anden størrelse end en historie som Rottefængeren, så hvorfor er denne stadig vigtig, og ikke mindst (ifølge undertegnede) egnet for børn.
 
