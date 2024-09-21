@@ -16,7 +16,7 @@ En akademisk artikel har til formål at beskrive og undersøge verden ud fra vid
 
 Artikler til Åndslivs akademiske tidsskrift skal indsendes i den angivne skabelon: 
 
-1.  Artiklens længde: max 16 sider hvor én side svare til 2400 tegn. 
+1.  Artiklens længde: max 16 sider hvor én side svarer til 2400 tegn. 
 2. Noter (helst så få og små som muligt) anbringes som fodnoter.
 3. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
 4. Referencer samt referanceliste opstilles efter APA-standard.
@@ -31,10 +31,32 @@ Til det akademiske tidsskrift er det også muligt at skrive en replik, der funge
 
 Replikker  til Åndslivs akademiske tidsskrift skal indsendes i den angivne skabelon:
 
-1. Artiklens længde: max 5 sider hvor én side svare til 2400 tegn. 
+1. Artiklens længde: max 5 sider hvor én side svarer til 2400 tegn. 
 2. Noter (helst så få og små som muligt) anbringes som fodnoter.
 3. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
 4. Referencer og referenceliste opstilles efter APA-standard.
 5. Angiv i mailen forfatteroplysningerne: Navn, replik, hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af replikken.  
 
 For at indsende sendes mail med replikken vedhæftet og ovenstående krav til mailen til: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
+
+
+**Politk & Samfund**
+
+Til afsnittet Politik & Samfund er det muligt at indsende læserbreve, analyser, observationer, opråb og holdninger om menneskets møde med hverdagen og samfundet. tematikken kan både omfatte generelle forhold i samfundet, samt politiske analyser og holdninger.
+
+Artikler til Åndslivs Politik & Samfundssektion skal indsendes inden for følgende ramme, samt indeholde nævnte oplysninger:
+
+1. Artiklens længde: 1-5 sider hvor én side svarer til 2400 tegn. 
+2. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
+3. Hvis teksten indholder referencer skal referencerne og  referenceliste bagerst i artiklen, opstilles efter APA-standard.
+4. Angiv i mailen følgende oplysninger: Navn, "Politik & Samfund", hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
+
+
+**Kultur**
+
+Afsnittet Kultur beskæftiger sig med den kulturelle verdens beskrivelse og klarlægning af den menneskelige oplevelsesverden. Artikeltyper inkluderer anmeldelser, kommentarer og analyser af kulturarrangementer, udstillinger, bøger o.lign.
+
+1. Artiklens længde: 1-3 sider hvor én side svarer til 2400 tegn. 
+2. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
+3. Hvis teksten indholder referencer skal referencerne og  referenceliste bagerst i artiklen, opstilles efter APA-standard.
+4. Angiv i mailen følgende oplysninger: Navn, "Kultur", hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
