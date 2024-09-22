@@ -23,7 +23,7 @@ Artikler til Åndslivs akademiske tidsskrift skal indsendes i den angivne skabel
 
 5. Angiv i mailen forfatteroplysningerne: Navn, artikel,  titel, institution (hvis haves),  et abstract (max 250 ord) og  3-7 nøgleord. 
 
-For at indsende sendes mail med artiklen vedhæftet og ovenstående krav til: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
+For at indsende sendes mail med artiklen vedhæftet, der overholder ovenstående krav til mailen: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
 
 **Replik**
 
@@ -37,10 +37,10 @@ Replikker  til Åndslivs akademiske tidsskrift skal indsendes i den angivne skab
 4. Referencer og referenceliste opstilles efter APA-standard.
 5. Angiv i mailen forfatteroplysningerne: Navn, replik, hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af replikken.  
 
-For at indsende sendes mail med replikken vedhæftet og ovenstående krav til mailen til: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
+For at indsende sendes mail med replikken vedhæftet, der overholder ovenstående krav til mailen: [tidsskrift@åndsliv.dk](mailto:tidsskrift@åndsliv.dk)
 
 
-**Politk & Samfund**
+## Retningslinjer for forfattere ved indsendelse til Politk & Samfunds sektionen
 
 Til afsnittet Politik & Samfund er det muligt at indsende læserbreve, analyser, observationer, opråb og holdninger om menneskets møde med hverdagen og samfundet. tematikken kan både omfatte generelle forhold i samfundet, samt politiske analyser og holdninger.
 
@@ -49,14 +49,17 @@ Artikler til Åndslivs Politik & Samfundssektion skal indsendes inden for følge
 1. Artiklens længde: 1-5 sider hvor én side svarer til 2400 tegn. 
 2. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
 3. Hvis teksten indholder referencer skal referencerne og  referenceliste bagerst i artiklen, opstilles efter APA-standard.
-4. Angiv i mailen følgende oplysninger: Navn, "Politik & Samfund", hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
+4. Angiv i mailen følgende oplysninger: Navn, "Politik & Samfund", titel, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
 
+For at indsende dit bidrag sendes mail med artikelen vedhæftet, der overholder ovenstående krav til mailen: [politik-og-samfund@aandsliv.dk](mailto:politik-og-samfund@aandsliv.dk)
 
-**Kultur**
+ ## Retningslinjer for forfattere ved indsendelse til Kultursektionen
 
 Afsnittet Kultur beskæftiger sig med den kulturelle verdens beskrivelse og klarlægning af den menneskelige oplevelsesverden. Artikeltyper inkluderer anmeldelser, kommentarer og analyser af kulturarrangementer, udstillinger, bøger o.lign.
 
 1. Artiklens længde: 1-3 sider hvor én side svarer til 2400 tegn. 
 2. Citater/observationer eller anden materialegengivelse skal være indrykket i forhold til tekst.
 3. Hvis teksten indholder referencer skal referencerne og  referenceliste bagerst i artiklen, opstilles efter APA-standard.
-4. Angiv i mailen følgende oplysninger: Navn, "Kultur", hvilken forfatter og titel det er en replik af, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
+4. Angiv i mailen følgende oplysninger: Navn, "Kultur", titel, institution (hvis haves), et lille resume (max 150 ord) af artiklen.  
+
+For at indsende dit bidrag sendes mail med artikelen vedhæftet, der overholder ovenstående krav til mailen:[kultur@aandsliv.dk](mailto:kultur@aandsliv.dk)
