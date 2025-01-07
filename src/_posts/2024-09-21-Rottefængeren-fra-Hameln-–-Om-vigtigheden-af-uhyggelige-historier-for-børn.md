@@ -1,6 +1,6 @@
 ---
 author: Simon Lehm Frandsen
-abstract: \'Uhyggelige\' historier er en del af de flestes barndom, men hvorfor er det væsentligt at forstå og forholde sig til historier der synes uegnede for børn, allerede fra en tidlig alder? Med afsæt i \'Rottefængeren fra Hameln\' gives en analyse af vigtigheden af disse historier for børn, ud fra både et individuelt moralsk perspektiv, og et samfundsanalytisk perspektiv.
+abstract: "Uhyggelige" historier er en del af de flestes barndom, men hvorfor er det væsentligt at forstå og forholde sig til historier der synes uegnede for børn, allerede fra en tidlig alder? Med afsæt i "Rottefængeren fra Hameln" gives en analyse af vigtigheden af disse historier for børn, ud fra både et individuelt moralsk perspektiv, og et samfundsanalytisk perspektiv.
 subsection: politik-og-samfund
 ---
 
