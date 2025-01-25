@@ -4,8 +4,6 @@ abstract: I Livslektioner introducerer en far sit barn til forståelser af samfu
 subsection: politik-og-samfund
 ---
 
-# Livslektioner – Vandr bort fra Omelas
-
 Mit kære barn
 
 Meget skal du lære om livet, og der kommer aldrig en dag hvor jeg kan besvare alle dine spørgsmål og forundringer. Det bør altid være en del af det at være ung at man forundres og udforsker sin verdensforståelse, men du vil som du bliver ældre møde mange mennesker i alle aldre, der tror de har regnet det hele ud. Når du kigger på min bogreol og bliver inspireret til at stille spørgsmål og til at udforske livets store spørgsmål, håber jeg at du aldrig glemmer hvor lidt din far egentlig ved om verden. Der er så meget derude vi mangler at forstå, og meget af det vi tror vi ved er ikke sandt. Både din mor og jeg vil forsøge at give dig de bedste betingelser for at forstå verden, og hvor din mor er god til at tage initiativ og få ting gjort i virkeligheden, er din far nok bedre til at blive lidt fjern og fordybe sig i det andre synes er kedeligt. Jeg håber derfor at du når du bliver gammel nok læser disse ord, og ved i dit hjerte at jeg altid har forsøgt at blive et bedre menneske og en bedre far. Det jeg har lært vil jeg nu forsøge at give videre til dig.
