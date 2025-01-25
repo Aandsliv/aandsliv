@@ -53,7 +53,7 @@ Artikler til Åndslivs Politik & Samfundssektion skal indsendes inden for følge
 
 For at indsende dit bidrag sendes mail med artikelen vedhæftet, der overholder ovenstående krav til mailen: [politik-og-samfund@aandsliv.dk](mailto:politik-og-samfund@aandsliv.dk)
 
- ## Retningslinjer for forfattere ved indsendelse til Kultursektionen
+## Retningslinjer for forfattere ved indsendelse til Kultursektionen
 
 Afsnittet Kultur beskæftiger sig med den kulturelle verdens beskrivelse og klarlægning af den menneskelige oplevelsesverden. Artikeltyper inkluderer anmeldelser, kommentarer og analyser af kulturarrangementer, udstillinger, bøger o.lign.
 
