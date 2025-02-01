@@ -4,7 +4,7 @@ abstract: I Livslektioner introducerer en far sit barn til forståelser af samfu
 subsection: politik-og-samfund
 ---
 
-# I Livslektioner introducerer en far sit barn til forståelser af samfundet og kommer med forslag til at søge inspiration og viden om moral og verdensforståelse. “Livslektioner” er skrevet til unge mennesker, med håb om at man som ung kan få udvidet sin horisont og danne sig egne meninger og holdninger til verden.
+### I Livslektioner introducerer en far sit barn til forståelser af samfundet og kommer med forslag til at søge inspiration og viden om moral og verdensforståelse. “Livslektioner” er skrevet til unge mennesker, med håb om at man som ung kan få udvidet sin horisont og danne sig egne meninger og holdninger til verden.
 
 Mit kære barn
 
