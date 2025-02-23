@@ -48,7 +48,36 @@
                 tag.textContent = "Politik & Samfund";
             }
         });
+
+        updateArticlePreviewHeights(Array.from(document.querySelectorAll(".card")))
+        
+        window.addEventListener("resize", (ev) => {
+            const cards = Array.from(document.querySelectorAll(".card"));
+            updateArticlePreviewHeights(cards);
+        });
+
     });
+
+    function updateArticlePreviewHeights(cards) {
+        cards.forEach(resetHeight);
+        cards.forEach(card => {
+            const match = cards.find(other => other.offsetTop === card.offsetTop && other !== card);
+            if (match) {
+                const maxHeight = Math.max(card.offsetHeight, match.offsetHeight);
+                setHeight(maxHeight, card);
+                setHeight(maxHeight, match);
+        }
+    });
+    }
+    
+    function setHeight(height, obj) {
+        obj.style.height = height + "px";
+    }
+    
+    function resetHeight(obj) {
+        obj.style.height = "";
+    }
+
 </script>
 </body>
 </html>
