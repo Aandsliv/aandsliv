@@ -23,6 +23,7 @@ Når man har sin retfærdiggørelse på plads kan man hurtigt undskylde sig selv
 Alt dette er netop hvad det gør Evaristti til et geni. Han bruger de psykologiske mekanismer om moralsk selvopfattelse til at tvinge os til at forholde os til vores egne dårlige sider, og netop det er kunstens vigtigste rolle. At skabe forargelse der danner grobund for refleksion og vækst.
 
 ## Litteratur:
+
 Bastian, B., & Loughnan, S. (2017). Resolving the meat-paradox: A motivational account of mor-ally troublesome behavior and its maintenance. Personality and Social Psychology Review, 21(3), 278-299.
 
 Buttlar, B., & Walther, E. (2019). Dealing with the meat paradox: Threat leads to moral disengage-ment from meat consumption. Appetite, 137, 73-80.
