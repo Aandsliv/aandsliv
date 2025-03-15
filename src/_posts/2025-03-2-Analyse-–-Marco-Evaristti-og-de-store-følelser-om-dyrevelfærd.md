@@ -9,8 +9,11 @@ Marco Evaristti blev landskendt i år 2000 med udstillingen “Helena” hvor ha
 Der er to ting der virkelig kan få den danske sindsstemning i kog, veganere og dyremishandling. To modsatte poler på det samme spektrum, der på den ene side udfordrer den måde man lever på og ens egne moralske standarder, og på den anden side eksponerer os for hvad disse standarder har af konsekvenser for de dyr vi bruger i produktionen. Selvom de fleste mennesker spiser dyreprodukter er der et generelt ønske om at dyr ikke skal lide unødigt (Hartmann & Siegrist, 2020), hvorfor der ofte vil opleves en stor mængde psykisk ubehag (kaldet kognitiv dissonans) ved at blive konfronteret med de forhold dyrene opdrættes under (e.g. Kunst & Hohle, 2016; Bastian & Loughnan, 2017; Buttlar & Walther, 2019). Vi ønsker altså ikke at ændre på den måde vi lever, men vi vil samtidig ikke konfronteres med de omstændigheder der gør vores levestandard mulig, da dette kan påvirke vores positive selvbillede (Sedikides & Gregg, 2008). Den overordnede tendens bliver derfor at vi retfærdiggør vores kødspisning ud fra det man kalder de fire N’er: Normal, Nice, Natural og Necessary (Piazza et. al, 2015). Disse bruges som en indre retfærdiggørelse der muliggør at vi som almene forbrugere kan købe dyreprodukter med god samvittighed uden at bekymre os om produktionsforholdene. De fire N’er kan forstås som:
 
 Normal: Det er okay at spise dyreprodukter fordi det er helt normalt og alle andre gør det.
+
 Nice: Det smager godt, og det giver mig så tilpas meget velvære at det er det værd.
+
 Natural: Det er helt naturligt for mennesker at spise kød, og det er en del af naturens orden.
+
 Necessary: For at kunne leve sundt og sikre sig den nødvendige næring, er man nødt til at spise kød og andre dyreprodukter. 
 
 Disse fire N’er bliver altså måder vi fortæller os selv hvorfor det er okay at spise kød, men hvor vi stadig kan forsvare at kritisere mishandling hvor formålet ikke er at spise dyrene. Når dyrene spises, bliver mishandlingen netop et biprodukt af en nødvendig praksis, hvorfor det bliver nemmere at indgå i aktiviteten uden at opleve samvittighedskvaler. Men hvis har styr på sin retfærdiggørelse, hvorfor bliver kødspisere så så provokerede af veganere og deres udtalelser om hvor moralsk forkasteligt det er at spise kød? Kødspisere har en tendens til at rangere veganere lavest blandt forskellige udgruper som eksempelvis indvandrere og folk med andre politiske holdninger (MacInnis & Hodson, 2017). Dette skyldes netop at den tidligere nævnte kognitive dissonans dukker frem igen når retfærdiggørelsen opnået gennem de fire N’er bliver udfordret, og det er altid nemmere at benægte andres argumenter end at skulle ændre sin egen levestandard. At skulle gå fra at spise kød til at blive veganer er så markant et skifte med store omkostninger, at langt de fleste vælger at nedtone, ignorere eller simpelthen benægte de forhold grisene lever under. Psykologiske eksperimenter har også vist at folk er mindre tilbøjelige til at tro at dyr har et sind hvis de lige har læst om en vegetar, end hvis de har læst en neutral historie (Rothgerber, 2014). Alt dette viser at kødspisere vil gå langt for at forsvare deres retfærdiggørelse af egne handlinger, men hvorfor betyder dette så meget?
@@ -19,7 +22,7 @@ Når man har sin retfærdiggørelse på plads kan man hurtigt undskylde sig selv
 
 Alt dette er netop hvad det gør Evaristti til et geni. Han bruger de psykologiske mekanismer om moralsk selvopfattelse til at tvinge os til at forholde os til vores egne dårlige sider, og netop det er kunstens vigtigste rolle. At skabe forargelse der danner grobund for refleksion og vækst.
 
-Litteratur:
+## Litteratur:
 Bastian, B., & Loughnan, S. (2017). Resolving the meat-paradox: A motivational account of mor-ally troublesome behavior and its maintenance. Personality and Social Psychology Review, 21(3), 278-299.
 
 Buttlar, B., & Walther, E. (2019). Dealing with the meat paradox: Threat leads to moral disengage-ment from meat consumption. Appetite, 137, 73-80.
