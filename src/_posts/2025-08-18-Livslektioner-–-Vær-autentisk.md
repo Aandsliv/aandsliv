@@ -1,0 +1,38 @@
+---
+author: Simon Lehm Frandsen
+abstract: I Livslektioner introducerer en far sit barn til forståelser af samfundet og kommer med forslag til at søge inspiration og viden om moral og verdensforståelse. “Livslektioner” er skrevet til unge mennesker, med håb om at man som ung kan få udvidet sin horisont og danne sine egne meninger og holdninger til verden.
+subsection: politik-og-samfund
+---
+### I “Livslektioner” introducerer en far sit barn til forståelser af samfundet og kommer med forslag til at søge inspiration og viden om moral og verdensforståelse. “Livslektioner” er skrevet til unge mennesker, med håb om at man som ung kan få udvidet sin horisont og danne sig egne meninger og holdninger til verden.
+
+Mit kære barn. 
+
+
+Jeg har til dig på nuværende tidspunkt blot en enkelt instruks; vær autentisk. En på papiret simpel formaning, for hvad kunne dog være nemmere end at være sig selv? Jeg mener; hvis ikke du er dig hvem skulle du så kunne være? Men det at være autentisk er ikke så simpel en opgave som man skulle tro, og jeg vil nu forsøge at udfolde dette for dig, og lade dig finde din egen vej til autenticitet.
+
+Måske husker du min første lektion? I slutningen af denne beder jeg dig om at vælge dine egne kampe og leve autentisk når du beslutter hvornår du vandrer bort fra Omelas. Men hvad betyder dette ord “autentisk”? For din forståelse er det nok at vide at “autentisk” betyder “ægte” og “pålidelig”, og altså refererer til at nogen eller noget både er hvad det udgiver sig for at være, og at du samtidig kan regne med at det ikke ændrer sig på tværs af situationer. 
+
+Du er endnu så ung og uskyldig, at den logiske tanke ville være: “Naturligvis er mennesker ærlige, pålidelige og ægte”; men på tværs af kulturer vil du finde en klassisk komisk karakter der indgår i forskellige historier, hvor karakteren altid er den samme. Denne karakter tager nemlig hvad folk siger for gode varer, er altid ærlig og siger sin mening uden at holde hemmeligheder. I din alder forstår man ikke humoren i dette, men voksne griner af absurditeten, fordi man som menneske nødvendigvis må navigere i et landskab af usandheder, falsk høflighed og uklare intentioner. Mennesker er ikke autentiske, til et punkt hvor filosoffen Friedrich Nietzsche brugte størstedelen af sit forfatterskab på at kritisere denne manglende autenticitet, og beråbte at hans bibliografi var forbeholdt de få mennesker, der reelt ønskede at forsøge at leve på denne måde. Ganske få er lykkes, og det ville være urimeligt at forvente at du kan være autentisk hele tiden, så min lektion må nødvendigvis gradbøjes en smule.
+
+“Forsøg at være autentisk” er nok snarere hvad jeg beder dig om. Forsøg at være dig selv og at være ærlig på tværs af situationer, også når det risikerer at få dig i moderat unåde. Du har måske bemærket at din gamle far nogle gange ender i problemer fordi han absolut må sige sin mening, og at han nogle gange kan opfattes som kontrær (en der bare gerne vil være uenig for diskussionens skyld). Men dette skyldes at selvom jeg fejler gang på gang forsøger jeg altid at være så autentisk som muligt, og når nogen siger noget jeg ikke er enig i, eller noget jeg finder unuanceret, går jeg ind i debatten. Og dette skaber til tider dårlig stemning, men der er det vigtigt at du spørger dig selv om dårlig stemning er værd at gå på kompromis med dine principper for? Eksempelvis bliver mange stødte når man taler om reel dyrevelfærd og klimaproblemer, men disse problemer forsvinder ikke bare fordi vi tier stille når folk bliver sure over at det bringes op. Det er hertil vigtigt at folk som os husker på hvor privilegerede vi er, og at vores forståelse af problemer er opstået som følge af en række situationer og omstændigheder som ikke alle er forundt. 
+Spørgsmålet om privilegieblindhed skal vi nok tage en anden gang, men du må nødvendigvis forstå at ikke alle har haft muligheden for at reflektere så meget over verden som vi har, og at de færreste mennesker derfor tænker over hvordan de egentlig lever deres liv. Så når vi tager aktive valg om at gøre ting der er mere besværlige fordi vi mener det er det rigtige at gøre, er mange andre ikke hverken økonomisk eller kulturelt velhavende nok til at forholde sig til spørgsmålet. Men det spørgsmål der affødes af dette bliver netop: “Skal vi undlade at være autentiske fordi det potentielt kan gøre andre kede af det, eller fordi de ikke har haft samme forudsætninger som os?” Og selvfølgelig skal vi ikke det. Det bliver først nedladende hvis vi insisterer på at forskelsbehandle folk på den type baggrund, og ikke vise vores autenticitet over for dem, fordi de er værre stillet end os. 
+
+Altså har vi nu etableret at vi ikke må forskelsbehandle i hvornår vi viser vores autenticitet, men derfor mangler vi stadig at besvare hvorfor det overhovedet er vigtigt? At være autentisk er vigtigt fordi overbevisninger informerer dine handlinger, og handlinger har konsekvenser for dig selv og andre. Hvis du gemmer disse overbevisninger væk, begår du stiltiende vold på dine overbevisninger, og den måde vi kan vokse på som samfund er ved at vores ideer kan mødes og skabe en ny virkelighedsforståelse. At være autentisk handler ikke om aldrig at ændre sin holdning, men om altid at være ærlig omkring hvad din holdning er, forsvare den samt at udfordre andre modstridende holdninger. Samtidig handler det om at du finder din egen plads i verden, skaber det liv du gerne vil leve og har folk omkring dig du ikke skal bruge energi på at skjule ting for. Hvis du vokser op og finder ud af at du er glad for jazz, helst vil kysse med folk fra dit eget køn og stemme på de Konservative, nytter det ikke noget at alle dine venner tror du elsker hip hop, er heteroseksuel og stemmer Enhedslisten. Man kan sagtens lade som om dette er tilfældet for ikke at gøre folk kede af det, men hvis folk kun kan lide den de tror du er, er det ikke dine rigtige venner. Hvis du går og lyver om hvem du er, er det meget svært at være glad i eget selskab. Og hvis ikke du kan være glad i dit eget selskab, hvorfor skulle andre så være det? 
+
+Hvis du på nuværende tidspunkt sidder og tænker at det hele er lidt uklart forstår jeg dig godt, men det er en kompleks vej at nå hen til forståelsen af det jeg prøver at sige. Jeg vil dog alligevel gøre et forsøg her til sidst i lektionen. I sidste ende er du altid ansvarlig for dine egne handlinger, og hvis ikke du kan stå inde for hvad du gør hele tiden, så skal du pludselig stå på mål for noget der ikke er din egen holdning. Dette er både hårdt og spild af tid og kræfter. Hvis folk ikke får lov til at se den virkelige dig, og hvis du ikke tillader dig selv at være autentisk i verden, så finder hverken du eller andre nogensinde ud af hvad det kunne være blevet til, og hvor meget du kunne have fået ud af det hele. Det kræver mod, og vil betyde at der er mennesker der ikke vil kunne lide dig, men når vi lever i en verden med så mange mennesker er dette uundgåeligt. Og jo før du indser at du vil møde mange tusinde mennesker i din tid, men højest kende et par hundrede, og at der samtidig er mennesker ude i verden der oprigtigt ønsker dig død for dine holdninger (uanset hvad disse er), jo før lærer du at slappe af, tage ansvar, sige din mening, gøre det der gør dig glad og dermed lærer du at være autentisk.
+
+## Når du bliver ældre kan du læse:
+
+Faldet – Albert Camus
+
+Letters to a young contrarian – Christopher Hitchens
+
+Antikrist – Friedrich Nietzsche
+
+The courage to be disliked – Fumitake Koga & Ichiro Kishimi
+
+Underkastelse – Michel Houellebecq
+
+Om Livets korthed – Seneca
+
+Døgnkioskmennesket – Sayaka Murata
