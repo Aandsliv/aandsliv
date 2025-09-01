@@ -1,6 +1,6 @@
 ---
 author: Jakob Bundgaard Svendsen
-abstract: I en række af breve skriver en aldrende ideehistoriker om sin afmagt i forhold til åndslivets forfald. I dette brev skriver han om sin avasion imod begrebet evidens i social- og humanvidenskab.
+abstract: I en række af breve skriver en aldrende ideehistoriker om sin afmagt i forhold til åndslivets forfald. I dette brev skriver han om sin aversion imod begrebet evidens i social- og humanvidenskab.
 subsection: Kultur
 ---
 ## Brev til de Plebejiske - om evidens
@@ -31,3 +31,4 @@ For kunsten er det eneste der giver livet mening.
 
 Kh.
 En svagelig idehistoriker
+
