@@ -1,6 +1,6 @@
 ---
 author: Jakob Bundgaard Svendsen
-abstract: *Glimt* er en serie af små fiktive fortællinger om svigt. Den Første fortælling hedder *De tusind forelskelser* 
+abstract: Glimt er en serie af små fiktive fortællinger om svigt. Den Første fortælling hedder De tusind forelskelser 
 subsection: Politik-og-samfund
 ---
 
@@ -35,3 +35,4 @@ Hvilken pris har varmen?
 Marie spurgte mig: ”hvad drømmer du om?”. Hun havde selv dette blik, som jeg har set så mange gange før hos de piger jeg forelsker mig i. De drømmer, de forstiller sig en fremtid. De kan se os, de kan se dem de tror vi bliver.
 
 Det er kun mennesker der drømmer og jeg forelsker mig i mennesker. Jeg drømmer ikke, for dyr drømmer ikke. En rotte drømmer ikke. Marie forstod det ikke. Det gjorde Malene heller ikke. Garagen ændrede mig.  Jeg er en lille rotte, en laboratorierotte; hans eksperiment.
+
