@@ -1,12 +1,8 @@
 ---
 author: Jakob Bundgaard Svendsen
-abstract: En fortælling om svigt
+abstract: *Glimt* er en serie af små fiktive fortællinger om svigt. Den Første fortælling hedder *De tusind forelskelser* 
 subsection: Politik-og-samfund
 ---
-
-## De tusind forelskelser
-
-***<p style="text-align:center;">Text with basic formatting applied</p>***
 
 Nogle gange så fortæller jeg mig selv, at det denne gang bliver anderledes. Jeg kan mærke den – Beruselsen; mit dunkende hjerte. Men med et vender det - hendes blik bliver kvælende som var der noget giftigt i luften.  
 
